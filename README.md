@@ -6,4 +6,4 @@
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/handenurgurpinar).
 
 ## Languages and Tools
-java javascript python html5 mssql mysql postman MongoDB selenium testrail jira bitbucket git
+java javascript python html5 mssql postgresql postman MongoDB selenium protractor testrail bitbucket git jira clickup
