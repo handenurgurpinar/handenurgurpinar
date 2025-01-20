@@ -7,3 +7,5 @@
 
 ## Languages and Tools
 java javascript python html5 mssql postgresql postman MongoDB selenium protractor testrail bitbucket git jira clickup
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=handenurgurpinar)
